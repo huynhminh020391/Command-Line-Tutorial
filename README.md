@@ -18,6 +18,10 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
+Để chạy một câu lệnh các bạn cần phải khởi động một chương trình gọi là **terminal**.
+
+Đối với các bạn dùng Linux hay macOS thì không cần cài đặt thêm gì nhiều vì terminal đã được cài sẵn trên máy.
+
 Đối với các bạn dùng hệ điều hành Windows, để chạy các câu lệnh trong tài liệu này, các bạn có thể sử dụng dịch vụ cloud [https://c9.io/](https://c9.io/) hoặc cài đặt VirtualBox [https://www.virtualbox.org/](https://www.virtualbox.org/). Ngoài ra các bạn dùng Windows 10 cũng có thể làm theo hướng dẫn sau để cài Bash trên Ubuntu cho Windows: [https://msdn.microsoft.com/en-us/commandline/wsl/install\_guide.](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
 Cách cài đặt các ứng dụng cũng như set up môi trường làm việc các bạn có thể tìm trên google.
