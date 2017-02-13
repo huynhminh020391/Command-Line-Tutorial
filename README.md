@@ -14,5 +14,7 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
+Tài liệu này cung cấp các kiến thức cơ bản về Unix Command Line.
 
+**Unix: **là một họ các hệ điều hành bao gồm Linux, Android và macOS.
 
