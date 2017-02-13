@@ -12,7 +12,7 @@ hello, world
 
 Nơi mà dòng chữ này được in ra được gọi là **standard out.**
 
-Ở đây _echo _là một command, còn _"hello, world"_ là một argument, argument này là một string \(chuỗi ký tự\) mà ta muốn in ra màn hình.
+Ở đây _echo _là một command_, _còn_ _"hello, world" là một argument, argument này là một string \(chuỗi ký tự\) mà ta muốn in ra màn hình.
 
 Ví dụ ta muốn in ra màn hình dòng chữ _This is my program!_ Ta có thể gõ:
 
