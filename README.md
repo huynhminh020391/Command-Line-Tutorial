@@ -6,3 +6,5 @@
 
 **CLI: Command-line Interface. **Giao diện dòng lệnh,** **người dùng tương tác với máy tính thông qua các dòng lệnh. Ví dụ: Command Prompt trên Windows, ...
 
+Mặc dù GUI có thể đơn giản hóa việc tương tác với máy tính nhưng trong nhiều trường hợp, cách mạnh mẽ nhất để tương tác với máy tính là thông qua CLI
+
