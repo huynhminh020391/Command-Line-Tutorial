@@ -1,5 +1,7 @@
 # Hướng dẫn sử dụng Unix Command Line
 
+Tài liệu này cung cấp các kiến thức cơ bản về Unix Command Line.
+
 ---
 
 **GUI: Graphical User Interface.** Giao diện đồ họa, người dùng tương tác với máy tính thông qua các nút bấm, hình ảnh. Ví dụ: Trình duyệt, hệ điều hành Windows 10, ...
@@ -14,7 +16,7 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
-Tài liệu này cung cấp các kiến thức cơ bản về Unix Command Line.
-
 **Unix: **là một họ các hệ điều hành bao gồm Linux, Android và macOS.
+
+
 
