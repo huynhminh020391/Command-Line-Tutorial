@@ -18,6 +18,13 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
+Trong câu lệnh trên thì:
+
+* \[~\]$ được gọi là một **prompt**.
+* ls gọi là một **command**.
+* -l gọi là **option**.
+* foo gọi là **argument**.
+
 Để chạy một câu lệnh các bạn cần phải khởi động một chương trình gọi là **terminal**.
 
 Đối với các bạn dùng Linux hay macOS thì không cần cài đặt thêm gì nhiều vì terminal đã được cài sẵn trên máy.
