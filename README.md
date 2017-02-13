@@ -20,7 +20,7 @@ Ví dụ về một câu lệnh command-line:
 
 Trong câu lệnh trên thì:
 
-* \[~\]$ được gọi là một **prompt**.
+* \[~\]$ được gọi là một **prompt**. Bạn không cần gõ vào vì máy tính sẽ tự động thêm vào cho bạn.
 * ls gọi là một **command**.
 * -l gọi là **option**.
 * foo gọi là **argument**.
