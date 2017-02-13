@@ -4,5 +4,7 @@
 
 * [Hướng dẫn sử dụng Unix Command Line](README.md)
 
-## Methods
+## Phần 1
+
+* [Câu lệnh đầu tiên](phn-1/cau-lnh-u-tien.md)
 
