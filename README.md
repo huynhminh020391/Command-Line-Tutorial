@@ -8,6 +8,8 @@ Tài liệu này cung cấp các kiến thức cơ bản về Unix Command Line.
 
 **CLI: Command-line Interface. **Giao diện dòng lệnh,** **người dùng tương tác với máy tính thông qua các dòng lệnh. Ví dụ: Command Prompt trên Windows, ...
 
+**Unix: **là một họ các hệ điều hành bao gồm Linux, Android và macOS.
+
 Mặc dù GUI có thể đơn giản hóa việc tương tác với máy tính nhưng trong nhiều trường hợp, cách mạnh mẽ và linh hoạt nhất để tương tác với máy tính là thông qua CLI.
 
 Ví dụ về một câu lệnh command-line:
@@ -16,7 +18,7 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
-**Unix: **là một họ các hệ điều hành bao gồm Linux, Android và macOS.
+Đối với các bạn dùng hệ điều hành Windows, để chạy các câu lệnh trong tài liệu này, các bạn có thể sử dụng dịch vụ cloud [https://c9.io/](https://c9.io/) hoặc cài đặt VirtualBox [https://www.virtualbox.org/](https://www.virtualbox.org/).
 
 
 
