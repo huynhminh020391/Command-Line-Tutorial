@@ -18,7 +18,7 @@ Ví dụ về một câu lệnh command-line:
 [~]$ ls -l foo
 ```
 
-Đối với các bạn dùng hệ điều hành Windows, để chạy các câu lệnh trong tài liệu này, các bạn có thể sử dụng dịch vụ cloud [https://c9.io/](https://c9.io/) hoặc cài đặt VirtualBox [https://www.virtualbox.org/](https://www.virtualbox.org/).
+Đối với các bạn dùng hệ điều hành Windows, để chạy các câu lệnh trong tài liệu này, các bạn có thể sử dụng dịch vụ cloud [https://c9.io/](https://c9.io/) hoặc cài đặt VirtualBox [https://www.virtualbox.org/](https://www.virtualbox.org/). Ngoài ra các bạn dùng Windows 10 cũng có thể làm theo hướng sau để cài Bash trên Ubuntu cho Windows: [https://msdn.microsoft.com/en-us/commandline/wsl/install\_guide.](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
-
+Cách cài các ứng dụng cũng như set up mội trường làm việc các bạn có thể tìm trên google.
 
