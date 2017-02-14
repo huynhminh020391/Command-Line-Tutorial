@@ -38,7 +38,5 @@ Bản thân _man_ cũng là một command, vì thế ta có thể dùng lệnh _
 [~]$ man man
 ```
 
-Kết quả:
-
 
 
