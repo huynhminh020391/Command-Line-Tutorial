@@ -6,3 +6,11 @@
 
 Phím tắt cho lệnh này là: Ctrl-L.
 
+Để thoát terminal, ta dùng lệnh _exit._
+
+```
+[~]$ exit
+```
+
+Phím tắt cho lệnh này là: Ctrl-D.
+
