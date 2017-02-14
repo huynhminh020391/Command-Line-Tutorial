@@ -24,7 +24,7 @@ Ta thấy là output của lệnh _echo_ "hello, world" đã được redirect v
 [~]$ cat hello.txt
 ```
 
-Lệnh này sẽ output ra nội dung của file hellol.txt.
+Lệnh này sẽ output ra nội dung của file hello.txt.
 
 ```
 hello, world
