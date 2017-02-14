@@ -32,3 +32,5 @@ hello, world
 
 Như vậy rõ ràng output của lệnh _echo_ ở trên đã được redirect vào file hello.txt.
 
+Lưu ý là _cat_ có thể nhận nhiều argument.
+
