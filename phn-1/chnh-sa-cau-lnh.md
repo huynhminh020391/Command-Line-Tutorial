@@ -8,3 +8,5 @@ Ctrl-A: Đưa con trỏ về vị trí đầu tiên của câu lệnh.
 
 Ctrl-E: Đưa con trỏ tới vị trí cuối cùng.
 
+Ctrl-U: Xóa từ vị trí của con trỏ cho tới vị trí đầu tiên.
+
