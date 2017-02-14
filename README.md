@@ -2,6 +2,8 @@
 
 ###### Tài liệu này cung cấp các kiến thức cơ bản về Unix Command Line.
 
+Người viết: [https://www.facebook.com/minh.huynh.520357](https://www.facebook.com/minh.huynh.520357)
+
 ---
 
 **GUI: Graphical User Interface.** Giao diện đồ họa, người dùng tương tác với máy tính thông qua các nút bấm, hình ảnh. Ví dụ: Trình duyệt, hệ điều hành Windows 10, ...
