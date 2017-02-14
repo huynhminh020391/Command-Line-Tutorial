@@ -6,5 +6,5 @@ Ví dụ như ta muốn xem chi tiết chức năng của lệnh _echo_, ta gõ:
 [~]$ man echo
 ```
 
-Trong trường hợp này thì bản thân _echo_ là argument, còn _man_ là một command.
+Trong trường hợp này thì bản thân _echo_ là một argument, còn _man_ là một command.
 
