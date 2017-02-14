@@ -2,3 +2,7 @@ Giả sử ta muốn dùng lại câu lệnh mà ta đã dùng trước đó, ta
 
 Khi gõ một lệnh, ta có thể dùng các phím mũi tên trái, phải để di chuyển con trỏ tới nơi mà ta muốn.
 
+Một số phím tắt thông dụng:
+
+
+
