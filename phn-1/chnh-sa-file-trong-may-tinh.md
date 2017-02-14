@@ -16,7 +16,7 @@ Bây giờ, nếu bạn muốn lưu lại output trên vào một file text thì
 [~]$ echo "hello, world" > hello.txt
 ```
 
-Ta thấy là output của lệnh _echo_ "hello, world" đã được redirect vào file được gọi tên là hello.txt.
+Ta thấy là output của lệnh _echo_ "hello, world" đã được redirect vào một file được gọi tên là hello.txt.
 
 Để kiểm tra ta dùng lệnh sau:
 
