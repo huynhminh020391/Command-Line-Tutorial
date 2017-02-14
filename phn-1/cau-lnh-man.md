@@ -33,5 +33,5 @@ Khi nhấn enter, màn hình sẽ hiện ra như sau:
           maximum portability are strongly encouraged to use printf(1) to
           suppress the newline character.
 
-
+Ta có thể nhấn phím mũi tên chỉ xuống để xem từng dòng một hoặc nhấn phím spacebar để xem trang tiếp theo. Để thoát, ta nhấn phím q.
 
