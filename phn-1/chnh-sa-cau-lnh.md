@@ -4,5 +4,7 @@ Khi gõ một lệnh, ta có thể dùng các phím mũi tên trái, phải đ�
 
 Một số phím tắt thông dụng:
 
+Ctrl-A: Đưa con trỏ về vị trí đầu tiên của câu lệnh.
 
+Ctrl-E: Đưa con trỏ tới vị trí cuối cùng.
 
