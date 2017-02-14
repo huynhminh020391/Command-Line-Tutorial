@@ -32,3 +32,13 @@ Khi nhấn enter, màn hình sẽ hiện ra như sau:
 
 Ta có thể nhấn phím mũi tên chỉ xuống để xem từng dòng một hoặc nhấn phím spacebar để xem trang tiếp theo. Để thoát, ta nhấn phím q.
 
+Bản thân _man_ cũng là một command, vì thế ta có thể dùng lệnh _man_ lên chính nó.
+
+```
+[~]$ man man
+```
+
+Kết quả:
+
+
+
