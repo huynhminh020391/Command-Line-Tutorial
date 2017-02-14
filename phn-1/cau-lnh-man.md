@@ -28,10 +28,7 @@ Khi nhấn enter, màn hình sẽ hiện ra như sau:
        -n  Do not print the trailing newline character. This may also be
           achieved by appending `\c' to the end of the string, as is done by
           iBCS2 compatible systems. Note that this option as well as the
-          effect of `\c' are implementation-defined in IEEE Std 1003.1-2001
-          (``POSIX.1'') as amended by Cor. 1-2002. Applications aiming for
-          maximum portability are strongly encouraged to use printf(1) to
-          suppress the newline character.
+    ...
 
 Ta có thể nhấn phím mũi tên chỉ xuống để xem từng dòng một hoặc nhấn phím spacebar để xem trang tiếp theo. Để thoát, ta nhấn phím q.
 
