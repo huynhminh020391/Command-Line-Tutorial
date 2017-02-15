@@ -36,3 +36,17 @@ Kiểm tra xem file bye.txt có tồn tại không:
 
 Ta thấy là chương trình không báo lỗi, vậy file bye.txt đã có trong thư mục hiện hành.
 
+Lệnh _ls_ cũng hỗ trợ wildcard character. Ví dụ muốn liệt kê tất cả các file có phần mở rộng là txt, ta gõ:
+
+```
+[~]$ ls *.txt
+```
+
+Output:
+
+```
+bye.txt hello.txt
+```
+
+
+
