@@ -1,4 +1,4 @@
-Để copy file hello\_world.txt và đặt tên file copy từ nó thành hello.txt. Ta làm như sau:
+Để copy file hello\_world.txt và đặt tên file copy từ nó thành hello.txt. Ta dùng lệnh _cp_:
 
 ```
 [~]$ cp hello_world.txt hello.txt
