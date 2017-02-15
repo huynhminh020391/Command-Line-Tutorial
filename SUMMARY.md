@@ -20,4 +20,5 @@
 ## Phần 2
 
 * [Tải file](phn-2/ti-file.md)
+* Tìm lại các câu lệnh đã gõ
 
