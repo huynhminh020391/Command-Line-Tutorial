@@ -64,5 +64,5 @@ drwxrwxrwx 2 Minima Minima  0 Feb 15 08:41 one
 drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
 ```
 
-Ở cột cuối cùng là thời gian mà lần cuối file được chỉnh sửa. Kế đó là size tính bằng byte.
+Ở cột cuối cùng là thời gian mà lần cuối file được chỉnh sửa. Kế đó là size của file tính bằng byte.
 
