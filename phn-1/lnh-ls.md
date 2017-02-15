@@ -10,5 +10,15 @@ Ngoài ra lệnh _ls_ còn được dùng để kiểm tra xem một file hay fo
 
 Ví dụ khi gõ:
 
+```
+[~]$ ls bye.txt
+```
 
+Kết quả:
+
+```
+ls: cannot access bye.txt: No such file or directory
+```
+
+Chương trình báo lỗi, chứng tỏ file bye.txt không tồn tại.
 
