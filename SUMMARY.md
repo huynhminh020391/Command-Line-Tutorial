@@ -14,6 +14,6 @@
 * [Lệnh ls](phn-1/lnh-ls.md)
 * [Các file ẩn](phn-1/cac-file-n.md)
 * [Rename](phn-1/rename.md)
-* Copy
+* [Copy](phn-1/copy.md)
 * Delete
 
