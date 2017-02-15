@@ -8,5 +8,15 @@ hello.txt là argument thứ nhất, hello\_world.txt là argument thứ 2.
 
 Dùng lệnh _ls_ để kiểm tra kết quả:
 
+```
+[~]$ ls
+```
+
+Output:
+
+```
+bye.txt hello_world.txt one two
+```
+
 
 
