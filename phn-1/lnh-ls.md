@@ -66,3 +66,5 @@ drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
 
 Ở cột cuối cùng là thời gian mà lần cuối file được chỉnh sửa. Kế đó là size của file tính bằng byte.
 
+Một option nữa là -t. Với option này thứ tự liên kê sẽ được xét dựa theo thời gian mà các file được chỉnh sửa.
+
