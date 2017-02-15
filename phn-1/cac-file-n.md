@@ -10,3 +10,21 @@ Ví dụ ta tạo một file ẩn như sau:
 
 Dùng lệnh _ls_:
 
+```
+[~]$ ls
+```
+
+Output:
+
+```
+bye.txt hello.txt one two
+```
+
+Để thấy được file ẩn ta dùng thêm option -a:
+
+```
+[~]$ ls -a
+```
+
+
+
