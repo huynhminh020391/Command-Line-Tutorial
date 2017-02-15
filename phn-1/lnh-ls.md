@@ -100,5 +100,5 @@ drwxrwxrwx 2 Minima Minima  0 Feb 15 08:41 one
 -rw-rw-rw- 1 Minima Minima  0 Feb 15 09:12 bye.txt
 ```
 
-
+File bye.txt xuất hiện ở cuối vì nó được chỉnh sửa trong thời gian gần nhất
 
