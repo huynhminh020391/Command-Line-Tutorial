@@ -22,5 +22,5 @@ Giả sử ta muốn tải file goodnight.txt từ [https://www.example.com/good
 
 -O: dùng để ghi output thành một file có tên như tên file ở trên server, ở đây file sẽ có tên là goodnight.txt.
 
--L: dùng để follow redirects. \(Google redirect nếu bạn không rõ nó là gì ^\_^\).
+-L: dùng để follow redirects. \(Google "redirect" nếu bạn không rõ nó là gì ^\_^\).
 
