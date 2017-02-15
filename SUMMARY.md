@@ -11,4 +11,5 @@
 * [Chỉnh sửa câu lệnh](phn-1/chnh-sa-cau-lnh.md)
 * [Lệnh clear và exit](phn-1/lnh-clear-va-exit.md)
 * [Cách thao tác với các file](phn-1/chnh-sa-file-trong-may-tinh.md)
+* Lệnh ls
 
