@@ -38,5 +38,9 @@ Lưu ý là _cat_ có thể nhận nhiều argument, **&gt;** được gọi là
 
 Ví dụ ta muốn thêm dòng Hi, everybody vào file hello.txt. Ta gõ lệnh như sau:
 
+```
+[~]$ echo "Hi, everybody" >> hello.txt
+```
+
 
 
