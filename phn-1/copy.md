@@ -34,5 +34,11 @@ hello, world
 Hi, everybody
 ```
 
+Ngoài ra ta có thể dùng lệnh _diff_ để so sánh nội dung 2 file:
 
+```
+[~]$ diff hello.txt hello_world.txt
+```
+
+Nếu 2 file giống nhau thì chương trình sẽ không in ra gì cả.
 
