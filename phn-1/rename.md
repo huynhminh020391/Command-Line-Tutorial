@@ -6,3 +6,7 @@ Nếu ta muốn đổi tên file hello.txt thành hello\_world.txt thì ta sẽ 
 
 hello.txt là argument thứ nhất, hello\_world.txt là argument thứ 2.
 
+Dùng lệnh _ls_ để kiểm tra kết quả:
+
+
+
