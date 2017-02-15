@@ -18,5 +18,5 @@ Lệnh này giúp ta nhập lại lệnh mà ta vừa nhập trước đó.
 [~]$ !c
 ```
 
-
+Ngoài ra ta có thể search các lệnh bằng tổ hợp phím Ctrl-R.
 
