@@ -26,5 +26,11 @@ bye.txt hello.txt one two
 [~]$ ls -a
 ```
 
+Output:
+
+```
+. .. bye.txt hello.txt .hidden.txt one two
+```
+
 
 
