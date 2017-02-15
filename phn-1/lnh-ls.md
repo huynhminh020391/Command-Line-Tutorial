@@ -90,5 +90,15 @@ Ta thấy bye.txt xuất hiện ở đầu vì nó được chỉnh sửa trong 
 [~]$ ls -l -t -r
 ```
 
+Output:
+
+```
+total 0
+drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
+-rw-rw-rw- 1 Minima Minima 27 Feb 15 08:40 hello.txt
+drwxrwxrwx 2 Minima Minima  0 Feb 15 08:41 one
+-rw-rw-rw- 1 Minima Minima  0 Feb 15 09:12 bye.txt
+```
+
 
 
