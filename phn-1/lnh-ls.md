@@ -86,5 +86,9 @@ Ta thấy bye.txt xuất hiện ở đầu vì nó được chỉnh sửa trong 
 
 Để sắp lại thứ tự các file ta có thể dùng thêm option -r. Ví dụ:
 
+```
+[~]$ ls -l -t -r
+```
+
 
 
