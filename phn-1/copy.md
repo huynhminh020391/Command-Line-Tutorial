@@ -23,5 +23,16 @@ hello, world
 Hi, everybody
 ```
 
+```
+[~]$ cat hello_world.txt
+```
+
+Output:
+
+```
+hello, world
+Hi, everybody
+```
+
 
 
