@@ -74,5 +74,13 @@ Một option nữa là -t. Với option này thứ tự liệt kê sẽ được
 
 Output:
 
+```
+total 0
+-rw-rw-rw- 1 Minima Minima  0 Feb 15 09:12 bye.txt
+drwxrwxrwx 2 Minima Minima  0 Feb 15 08:41 one
+-rw-rw-rw- 1 Minima Minima 27 Feb 15 08:40 hello.txt
+drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
+```
+
 
 
