@@ -12,5 +12,11 @@ Lệnh này giúp ta nhập lại lệnh mà ta vừa nhập trước đó.
 [~]$ !curl
 ```
 
+Để nhập lại command gần nhất bắt đầu bằng chữ _c_, ta gõ:
+
+```
+[~]$ !c
+```
+
 
 
