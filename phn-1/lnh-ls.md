@@ -84,3 +84,5 @@ drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
 
 Ta thấy bye.txt xuất hiện ở đầu vì nó được chỉnh sửa trong thời gian gần nhất.
 
+Để sắp lại thứ tự các file ta có thể dùng thêm option -r. Ví dụ:
+
