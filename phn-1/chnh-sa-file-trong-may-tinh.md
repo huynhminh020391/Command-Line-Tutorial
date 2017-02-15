@@ -51,8 +51,9 @@ Ví dụ ta muốn thêm dòng Hi, everybody vào file hello.txt. Ta gõ lệnh 
 Kết quả:
 
 ```
-
+hello, world
+Hi, everybody
 ```
 
-
+Ta thấy là toán tử &gt;&gt; đã thêm dòng thứ 2 có nội dung Hello, everybody vào file hello.txt.
 
