@@ -14,11 +14,11 @@ Output:
 
 Vậy là _curl_ đã có sẵn và ta có thể dùng, trường hợp máy bạn không có lệnh này bạn có thể tìm cách cài đặt trên Google.
 
-Giả sử ta muốn tải file goodnight.txt từ https://www.example.com/goodnight.txt. Ta gõ:
+Giả sử ta muốn tải file goodnight.txt từ [https://www.example.com/goodnight.txt](https://www.example.com/goodnight.txt). Ta gõ:
 
 ```
 [~]$ curl -OL https://www.example.com/goodnight.txt
 ```
 
-
+-O: dùng để ghi output thành một file có tên như tên file ở trên server, ở đây file sẽ có tên là goodnight.txt.
 
