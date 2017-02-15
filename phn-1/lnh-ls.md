@@ -22,3 +22,17 @@ ls: cannot access bye.txt: No such file or directory
 
 Chương trình báo lỗi, chứng tỏ file bye.txt không tồn tại.
 
+Để tạo file bye.txt, ta có thể gõ lệnh:
+
+```
+[~]$ touch bye.txt
+```
+
+Kiểm tra xem file bye.txt có tồn tại không:
+
+```
+[~]$ ls bye.txt
+```
+
+Ta thấy là chương trình không báo lỗi, vậy file bye.txt đã có trong thư mục hiện hành.
+
