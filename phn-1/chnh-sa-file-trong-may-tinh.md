@@ -32,7 +32,7 @@ hello, world
 
 Như vậy rõ ràng output của lệnh _echo_ ở trên đã được redirect vào file hello.txt.
 
-Lưu ý là _cat_ có thể nhận nhiều argument, **&gt;** được gọi là **redirect operator**.
+Lưu ý là _cat_ có thể nhận nhiều argument, **&gt;** được gọi là **redirect operator **\(toán tử redirect\).
 
 Để thêm nội dung vào một file nào đó, ta dùng **append operator &gt;&gt;**.
 
