@@ -6,5 +6,5 @@ Giả sử trong thư mục mà tôi đang làm việc có 2 thư mục là one 
 hello.txt one two
 ```
 
-
+Ngoài ra lệnh _ls_ còn được dùng để kiểm tra xem một file hay folder có tồn tại trong thư mục mà tôi đang làm việc hay không.
 
