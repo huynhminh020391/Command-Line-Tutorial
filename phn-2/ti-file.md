@@ -26,5 +26,7 @@ Giả sử ta muốn tải file goodnight.txt từ [https://www.example.com/good
 
 Một số option khác:
 
+-I: xem thông tin header.
 
+-h: coi thông tin các option có thể sử dụng chung với lệnh _curl_.
 
