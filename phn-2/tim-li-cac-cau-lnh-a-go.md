@@ -4,5 +4,5 @@
 [~]$ !!
 ```
 
-
+Lệnh này giúp ta nhập lại lệnh mà ta vừa nhập trước đó.
 
