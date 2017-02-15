@@ -19,3 +19,5 @@
 
 ## Phần 2
 
+* [Tải file](phn-2/ti-file.md)
+
