@@ -10,5 +10,11 @@
 [~]$ ls
 ```
 
+Output:
+
+```
+bye.txt hello.txt one two
+```
+
 
 
