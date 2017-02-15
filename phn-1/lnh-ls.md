@@ -68,3 +68,11 @@ drwxrwxrwx 2 Minima Minima  0 Feb 12 15:21 two
 
 Một option nữa là -t. Với option này thứ tự liệt kê sẽ được xét dựa theo thời gian mà các file được chỉnh sửa.
 
+```
+[~]$ ls -l -t
+```
+
+Output:
+
+
+
