@@ -24,3 +24,7 @@ Giả sử ta muốn tải file goodnight.txt từ [https://www.example.com/good
 
 -L: dùng để follow redirects. \(Google "redirect" nếu bạn không rõ nó là gì ^\_^\).
 
+Một số option khác:
+
+
+
