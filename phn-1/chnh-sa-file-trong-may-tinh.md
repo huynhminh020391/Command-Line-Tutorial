@@ -42,5 +42,17 @@ Ví dụ ta muốn thêm dòng Hi, everybody vào file hello.txt. Ta gõ lệnh 
 [~]$ echo "Hi, everybody" >> hello.txt
 ```
 
+Để kiểm tra lại nội dung của file hello.txt. Ta gõ:
+
+```
+[~]$ cat hello.txt
+```
+
+Kết quả:
+
+```
+
+```
+
 
 
