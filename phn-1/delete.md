@@ -1,4 +1,4 @@
-Để delete file hello\_world.txt, ta dùng lệnh:
+Để delete file hello\_world.txt, ta dùng lệnh _rm_:
 
 ```
 [~]$ rm hello_world.txt
