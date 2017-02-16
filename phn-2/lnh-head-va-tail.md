@@ -18,5 +18,5 @@ Ví dụ:
 [~]$ head -12 hello.txt
 ```
 
-
+Ngoài ra option -f của lệnh _tail_ còn được dùng để xem một file thay đổi liên tục.
 
