@@ -23,4 +23,5 @@
 * [Tìm lại các câu lệnh đã gõ](phn-2/tim-li-cac-cau-lnh-a-go.md)
 * [Lệnh head và tail](phn-2/lnh-head-va-tail.md)
 * [Lệnh wc](phn-2/lnh-wc.md)
+* [Pipe](phn-2/pipe.md)
 
