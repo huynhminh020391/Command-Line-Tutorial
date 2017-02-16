@@ -57,5 +57,5 @@ Hi, everybody
 
 Ta thấy là toán tử &gt;&gt; đã thêm \(append\) dòng thứ 2 có nội dung Hello, everybody vào file hello.txt.
 
-Lưu ý là redirect operator &gt; sẽ chép đè file, còn append operator sẽ thêm nội dung vào file.
+Lưu ý là redirect operator &gt; sẽ chép đè file, còn append operator &gt;&gt; sẽ thêm nội dung vào file.
 
