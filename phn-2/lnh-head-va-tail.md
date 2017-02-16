@@ -6,5 +6,17 @@ Ngoài ra option -n còn được thêm vào để xem n dòng với n là số 
 
 Ví dụ:
 
+```
+[~]$ head hello.txt
+```
+
+```
+[~]$ tail hello.txt
+```
+
+```
+[~]$ 
+```
+
 
 
