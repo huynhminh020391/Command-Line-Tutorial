@@ -24,8 +24,8 @@ Trong câu lệnh trên thì:
 
 * \[~\]$ được gọi là một **prompt**. Bạn không cần gõ vào vì máy tính sẽ tự động thêm vào cho bạn.
 * ls gọi là một **command**.
-* -l gọi là **option**.
-* foo gọi là **argument**. \(Thứ tự các option không quan trọng\)
+* -l gọi là **option**. \(Nếu có nhiều option thì thứ tự các option không quan trọng\)
+* foo gọi là **argument**.
 
 Để chạy một câu lệnh các bạn cần phải khởi động một chương trình gọi là **terminal**.
 
