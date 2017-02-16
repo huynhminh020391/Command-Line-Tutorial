@@ -26,4 +26,5 @@
 * [Pipe](phn-2/pipe.md)
 * [Less](phn-2/less.md)
 * [Grep](phn-2/grep.md)
+* [Lệnh top](phn-2/lnh-top.md)
 
