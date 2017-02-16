@@ -22,4 +22,5 @@
 * [Tải file](phn-2/ti-file.md)
 * [Tìm lại các câu lệnh đã gõ](phn-2/tim-li-cac-cau-lnh-a-go.md)
 * [Lệnh head và tail](phn-2/lnh-head-va-tail.md)
+* [Lệnh wc](phn-2/lnh-wc.md)
 
