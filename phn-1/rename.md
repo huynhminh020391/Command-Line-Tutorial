@@ -18,5 +18,11 @@ Output:
 bye.txt hello_world.txt one two
 ```
 
+Lệnh _mv_ còn có thể được dùng để di chuyển file. Ví dụ để di chuyển bye.txt vào thư mục one. Gõ:
+
+```
+[~]$ mv bye.txt one
+```
+
 
 
