@@ -50,5 +50,5 @@ hello[~]$
 [~]$ echo -n "hello"
 ```
 
-
+Bạn có thể gõ thử để xem sự khác biệt giữa echo "hello" và echo -n "hello".
 
