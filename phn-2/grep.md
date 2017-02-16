@@ -10,7 +10,5 @@ Output:
 hello, world
 ```
 
-Lệnh grep sẽ in ra màn hình các dòng có chứa chuỗi "hello". Lưu ý "Hello" khác với "hello". Nên những dòng chỉ có chuỗi "Hello" sẽ không được in ra. Để in ra các dòng có từ hello dù hello được viết hóa hay viết thường, ta dùng option -i.
-
-
+Lệnh grep sẽ in ra màn hình các dòng có chứa chuỗi "hello". Lưu ý "Hello" khác với "hello". Nên những dòng chỉ có chuỗi "Hello" sẽ không được in ra. Để in ra các dòng có từ hello dù hello được viết hoa hay viết thường, ta dùng option -i.
 
