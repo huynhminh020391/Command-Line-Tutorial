@@ -8,7 +8,7 @@ Với _less_ ta có thể dùng các phím mũi tên để xem nội dung của 
 
 Ctrl-F \(hoặc spacebar\): đi đến trang tiếp theo.
 
-Ctrl-B: quay trở lại trang cũ.
+Ctrl-B: quay trở lại trang trước.
 
 Nhất q để thoát.
 
