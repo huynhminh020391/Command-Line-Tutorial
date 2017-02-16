@@ -12,3 +12,11 @@ Ctrl-B: quay trở lại trang trước.
 
 Nhất q để thoát.
 
+Để tìm thông tin, chẳng hạn nếu ta muốn tìm từ "hello" trong file, ta có thể gõ \(chưa thoát chương trình _less_\):
+
+```
+/hello
+```
+
+Nhấn n để di chuyển đến kết quả tiếp theo, nhấn N để di chuyển kết quả trước.
+
