@@ -36,5 +36,5 @@ Nếu ta gõ thiếu một dấu ". Ví dụ:
 
 Thì khi nhấn enter ta không thể nhập tiếp các câu lệnh khác được nữa. Để thoát khỏi tình huống này hoặc các tình huống mà terminal bị treo ta dùng tổ hợp phím Ctrl-C \(nhấn giữ phím Ctrl rồi sau đó nhấn phím C\).
 
-Thật ra nếu ta nhập thiếu dấu ", ta vẫn có thể enter xuống dòng và bổ sung sau cũng được. Việc enter xuống dòng rồi bổ dung dấu  nháy " cho phép ta in ra màn hình nhiều dòng cùng lúc.
+Thật ra nếu ta nhập thiếu dấu ", ta vẫn có thể enter xuống dòng và bổ sung sau cũng được. Việc enter xuống dòng rồi bổ sung dấu  nháy " cho phép ta in ra màn hình nhiều dòng cùng lúc.
 
