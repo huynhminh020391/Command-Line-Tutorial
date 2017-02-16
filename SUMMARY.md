@@ -27,4 +27,5 @@
 * [Less](phn-2/less.md)
 * [Grep](phn-2/grep.md)
 * [Lệnh top](phn-2/lnh-top.md)
+* [Lệnh history](phn-2/lnh-history.md)
 
