@@ -16,5 +16,5 @@ Lệnh grep sẽ in ra màn hình các dòng có chứa chuỗi "hello". Lưu ý
 [~]$ grep -i hello hello.txt
 ```
 
-
+Option -n: in ra dòng kèm với số dòng của file.
 
