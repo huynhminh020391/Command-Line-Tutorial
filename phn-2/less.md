@@ -18,5 +18,5 @@ Nhất q để thoát.
 /hello
 ```
 
-Nhấn n để di chuyển đến kết quả tiếp theo, nhấn N để di chuyển kết quả trước.
+Nhấn n để di chuyển đến kết quả tiếp theo, nhấn N để di chuyển đến kết quả trước.
 
