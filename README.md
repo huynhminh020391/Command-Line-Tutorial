@@ -10,7 +10,7 @@ Người viết: [https://www.facebook.com/minh.huynh.520357](https://www.facebo
 
 **CLI: Command-line Interface. **Giao diện dòng lệnh,** **người dùng tương tác với máy tính thông qua các dòng lệnh. Ví dụ: Command Prompt trên Windows, ...
 
-**Unix: **là một họ các hệ điều hành bao gồm Linux, Android và macOS.
+**Unix: **là một họ các hệ điều hành bao gồm Linux, Android, iOS và macOS.
 
 Mặc dù GUI có thể đơn giản hóa việc tương tác với máy tính nhưng trong nhiều trường hợp, cách mạnh mẽ và linh hoạt nhất để tương tác với máy tính là thông qua CLI.
 
