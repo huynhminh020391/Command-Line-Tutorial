@@ -38,3 +38,11 @@ Thì khi nhấn enter ta không thể nhập tiếp các câu lệnh khác đư�
 
 Thật ra nếu ta nhập thiếu dấu ", ta vẫn có thể enter xuống dòng và bổ sung sau cũng được. Việc enter xuống dòng rồi bổ sung dấu  nháy " cho phép ta in ra màn hình nhiều dòng cùng lúc.
 
+Lưu ý là bản thân _echo_ sẽ tự động thêm vào newline "\n" ở cuối, nếu nó không tự động thêm vào "\n". Kết quả của lệnh _echo_ "hello" sẽ là:
+
+```
+hello[~]$
+```
+
+
+
