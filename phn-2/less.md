@@ -20,5 +20,5 @@ Nhất q để thoát.
 
 Nhấn n để di chuyển đến kết quả tiếp theo, nhấn N để di chuyển đến kết quả trước.
 
-Nhấn G để đi đến cuối file, 1G để đi đến đầu file. 17G để đi đến dòng thứ 17.
+Nhấn G để đi đến cuối file, 1G để đi đến đầu file. 12G để đi đến dòng thứ 12.
 
