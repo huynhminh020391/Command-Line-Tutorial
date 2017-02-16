@@ -48,7 +48,7 @@ Output:
 bye.txt hello.txt
 ```
 
-Để coi thêm thông tin chi tiết các file và folder trong thư mục hiện hành, ta có thể bổ sung thêm option _-l_ vào lệnh _ls_. Ví dụ:
+Để coi thêm thông tin chi tiết các file và folder trong thư mục hiện hành, ta có thể bổ sung thêm option -l vào lệnh _ls_. Ví dụ:
 
 ```
 [~]$ ls -l
