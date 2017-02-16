@@ -44,5 +44,11 @@ Lưu ý là bản thân _echo_ sẽ tự động thêm vào newline "\n" ở cu�
 hello[~]$
 ```
 
+Để làm cho _echo_ không in ra newline ở cuối, ta bổ sung option -n.
+
+```
+[~]$ echo -n "hello"
+```
+
 
 
