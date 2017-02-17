@@ -29,3 +29,7 @@
 * [Lệnh top](phn-2/lnh-top.md)
 * [Lệnh history](phn-2/lnh-history.md)
 
+## Phần 3
+
+* [Cấu trúc thư mục](phn-3/cu-truc-th-mc.md)
+
