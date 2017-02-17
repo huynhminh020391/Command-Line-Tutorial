@@ -26,5 +26,11 @@ Tương tự ta có thể di chuyển đến thư mục home của ta bằng l�
 [~]$ cd ~
 ```
 
-Để quay trở lại thư mục trước đó mà ta làm việc \(thư mục trước đó không nhất thiết phải là thư mục trên một cấp\).
+Để quay trở lại thư mục trước đó mà ta làm việc \(thư mục trước đó không nhất thiết phải là thư mục trên một cấp\). Ta gõ:
+
+```
+[~]$ cd -
+```
+
+
 
