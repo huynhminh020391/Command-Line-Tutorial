@@ -2,7 +2,7 @@ Lệnh _head_ dùng để xem 10 dòng đầu tiên của file.
 
 Lệnh _tail_ dùng để xem 10 dòng cuối của file.
 
-Option -n còn được thêm vào để xem n dòng với n là số mà bạn muốn.
+Option -n được thêm vào để xem n dòng với n là số mà bạn muốn.
 
 Ví dụ:
 
