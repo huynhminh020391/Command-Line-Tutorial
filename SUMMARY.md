@@ -40,4 +40,5 @@
 * [Di chuyển thư mục](phn-3/di-chuyn-th-mc.md)
 * [Copy](phn-3/copy.md)
 * [Remove thư mục](phn-3/remove-th-mc.md)
+* [grep](phn-3/grep.md)
 
