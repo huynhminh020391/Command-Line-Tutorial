@@ -34,4 +34,5 @@
 * [Cấu trúc thư mục](phn-3/cu-truc-th-mc.md)
 * [Lệnh sudo](phn-3/lnh-sudo.md)
 * [Tạo thư mục](phn-3/to-th-mc.md)
+* [Di chuyển giữa các thư mục](phn-3/di-chuyn-gia-cac-th-mc.md)
 
