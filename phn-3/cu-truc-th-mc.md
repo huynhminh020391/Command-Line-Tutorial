@@ -1,4 +1,4 @@
-/ : thư mục gốc \(root folder\)
+/ : thư mục gốc \(root folder\).
 
 ~ : home directory.
 
