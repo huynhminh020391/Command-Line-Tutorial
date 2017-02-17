@@ -10,5 +10,15 @@
 
 Ta kiểm tra vị trí hiện tại:
 
+```
+[~]$ pwd
+```
+
+Output:
+
+```
+/
+```
+
 
 
