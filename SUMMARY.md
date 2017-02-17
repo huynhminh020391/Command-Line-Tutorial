@@ -38,4 +38,5 @@
 * [Lệnh find](phn-3/lnh-file.md)
 * [Dùng nhiều lệnh cùng lúc](phn-3/dung-nhiu-lnh-cung-luc.md)
 * [Di chuyển thư mục](phn-3/di-chuyn-th-mc.md)
+* [Copy](phn-3/copy.md)
 
