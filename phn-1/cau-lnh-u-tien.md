@@ -14,7 +14,7 @@ Nơi mà dòng chữ này được in ra được gọi là **standard out.**
 
 Nơi mà lệnh được nhập vào được gọi là **standard in**.
 
-Định nghĩa chính xác hơn về standard in và stardard out cùng với stardard error:
+\*Định nghĩa chính xác hơn về standard in và stardard out cùng với stardard error:
 
 ```
 Standard input - this is the file handle that your process reads to get information from you.
