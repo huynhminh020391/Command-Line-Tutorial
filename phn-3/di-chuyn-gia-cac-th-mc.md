@@ -16,5 +16,7 @@ hoặc:
 [~]$ cd ~
 ```
 
+Hay dấu chấm .. : directory ở cấp trên.
 
+Một dấu chấm . : directory hiện hành
 
