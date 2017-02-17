@@ -4,5 +4,5 @@
 [~]$ mv folder1/ folder2/
 ```
 
-
+Dấu / ở cuối có thể bỏ cũng được.
 
