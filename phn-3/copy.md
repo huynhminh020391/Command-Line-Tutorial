@@ -9,7 +9,7 @@
 Nếu ta chỉ muốn copy nội dung của thư mục chứ không phải toàn bộ thư mục thì ta nhập:
 
 ```
-[~]$ cp -r folder/* folder2
+[~]$ cp -r folder1/* folder2
 ```
 
 
