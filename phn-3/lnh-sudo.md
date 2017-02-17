@@ -16,3 +16,15 @@ touch: cannot touch '/opt/foo': Permission denied
 
 Kết quả cho thấy ta không thể can thiệp vào thư mục. Nhưng nếu ta dùng lệnh _sudo_.
 
+```
+[~]$ sudo touch /opt/foo
+```
+
+Output:
+
+```
+[sudo] password for user:
+```
+
+Nếu bạn gõ đúng password thì lệnh sẽ được thực thi.
+
