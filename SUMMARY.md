@@ -32,4 +32,5 @@
 ## Phần 3
 
 * [Cấu trúc thư mục](phn-3/cu-truc-th-mc.md)
+* [Lệnh sudo](phn-3/lnh-sudo.md)
 
