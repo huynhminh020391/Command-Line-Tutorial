@@ -18,5 +18,5 @@ hoặc:
 
 Hai dấu chấm .. : directory ở cấp trên.
 
-Một dấu chấm . : directory hiện hành
+Một dấu chấm . : directory hiện hành.
 
