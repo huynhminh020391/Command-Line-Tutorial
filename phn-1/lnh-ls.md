@@ -110,3 +110,5 @@ File bye.txt xuất hiện ở cuối vì nó được chỉnh sửa trong thờ
 
 Kết quả vẫn thế chỉ khác là đỡ tốn thời gian gõ hơn.
 
+Nếu ta chỉ muốn hiển thị các thư mục thì dùng thêm option -d.
+
