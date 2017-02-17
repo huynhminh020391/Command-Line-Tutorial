@@ -8,5 +8,11 @@ Giả sử ta muốn dùng lệnh _touch_ trong thư mục hệ thống opt.
 [~]$ touch /opt/foo
 ```
 
+Output:
+
+```
+touch: cannot touch '/opt/foo': Permission denied
+```
+
 
 
