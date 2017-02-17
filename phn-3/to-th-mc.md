@@ -4,5 +4,11 @@
 [~]$ mkdir three
 ```
 
+Để di chuyển vào thư mục mới tạo, ta dùng lệnh _cd_.
+
+```
+[~]$ cd three
+```
+
 
 
