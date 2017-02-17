@@ -12,7 +12,7 @@ Người viết: [https://www.facebook.com/minh.huynh.520357](https://www.facebo
 
 **Unix: **là một họ các hệ điều hành bao gồm Linux, Android, iOS và macOS.
 
-**Terminal**: text input/output environment. \(Môi trường để nhập/ xuất text\)
+**Terminal**: text input/output environment. \(Môi trường để nhập/xuất text\)
 
 **Shell**: command line interpreter. \(Trình thông dịch\)
 
