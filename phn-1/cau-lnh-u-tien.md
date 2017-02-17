@@ -14,6 +14,16 @@ Nơi mà dòng chữ này được in ra được gọi là **standard out.**
 
 Nơi mà lệnh được nhập vào được gọi là **standard in**.
 
+Định nghĩa chính xác hơn về standard in và stardard out cùng với stardard error:
+
+```
+Standard input - this is the file handle that your process reads to get information from you.
+
+Standard output - your process writes normal information to this file handle.
+
+Standard error - your process writes error information here.
+```
+
 Ở đây _echo_ là một command, còn "hello, world" là một argument, argument này là một string \(chuỗi ký tự\) mà ta muốn in ra màn hình.
 
 Ví dụ ta muốn in ra màn hình dòng chữ _This is my program!_ Ta có thể gõ:
