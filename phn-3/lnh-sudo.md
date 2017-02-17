@@ -4,3 +4,9 @@ Mọi hệ điều hành Unix đều có các thư mục hệ thống, các thư
 
 Giả sử ta muốn dùng lệnh _touch_ trong thư mục hệ thống opt.
 
+```
+[~]$ touch /opt/foo
+```
+
+
+
