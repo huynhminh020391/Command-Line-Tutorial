@@ -18,3 +18,15 @@ Lệnh grep sẽ in ra màn hình các dòng có chứa chuỗi "hello". Lưu ý
 
 Option -n: in ra dòng kèm với số dòng của file.
 
+```
+[~]$ grep -n Hi hello.txt
+```
+
+Output:
+
+```
+2:Hi, everybody
+```
+
+
+
