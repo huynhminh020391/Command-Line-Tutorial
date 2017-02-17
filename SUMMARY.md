@@ -37,4 +37,5 @@
 * [Di chuyển giữa các thư mục](phn-3/di-chuyn-gia-cac-th-mc.md)
 * [Lệnh find](phn-3/lnh-file.md)
 * [Dùng nhiều lệnh cùng lúc](phn-3/dung-nhiu-lnh-cung-luc.md)
+* [Di chuyển thư mục](phn-3/di-chuyn-th-mc.md)
 

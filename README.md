@@ -12,6 +12,10 @@ Người viết: [https://www.facebook.com/minh.huynh.520357](https://www.facebo
 
 **Unix: **là một họ các hệ điều hành bao gồm Linux, Android, iOS và macOS.
 
+**Terminal**: text input/output environment. \(Môi trường để nhập/ xuất text\)
+
+**Shell**: command line interpreter. \(Trình thông dịch\)
+
 Mặc dù GUI có thể đơn giản hóa việc tương tác với máy tính nhưng trong nhiều trường hợp, cách mạnh mẽ và linh hoạt nhất để tương tác với máy tính là thông qua CLI.
 
 Ví dụ về một câu lệnh command-line:
