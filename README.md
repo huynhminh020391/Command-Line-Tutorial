@@ -27,9 +27,9 @@ Ví dụ về một câu lệnh command-line:
 Trong câu lệnh trên thì:
 
 * \[~\]$ được gọi là một **prompt**. Bạn không cần gõ vào vì máy tính sẽ tự động thêm vào cho bạn.
-* _ls_ gọi là một **command**.
-* -l gọi là **option**. \(Nếu có nhiều option thì thứ tự các option không quan trọng\)
-* foo gọi là **argument**.
+* _ls_ là một **command**.
+* -l là **option**. \(Nếu có nhiều option thì thứ tự các option không quan trọng\)
+* foo là **argument**.
 
 Để chạy một câu lệnh các bạn cần phải khởi động một chương trình gọi là **terminal**.
 
