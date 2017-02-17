@@ -2,7 +2,5 @@ Mọi hệ điều hành Unix đều có các thư mục hệ thống, các thư
 
 Để thay đổi thư mục và các file hệ thống bạn cần đăng nhập với tư cách superuser hay root. Tuy nhiên vẫn có cách khác để can thiệp vào file hệ thống mà không cần đăng nhập với tư cách superuser. Đó là dùng lệnh _sudo_.
 
-Giả sử ta muống dùng lệnh _touch_ trong thư mục hệ thống opt.
-
-
+Giả sử ta muốn dùng lệnh _touch_ trong thư mục hệ thống opt.
 
