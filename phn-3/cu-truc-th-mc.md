@@ -8,7 +8,7 @@
 [~]$ cd /
 ```
 
-Ta kiểm tra vị trí hiện tại:
+Ta có thể kiểm tra vị trí hiện tại bằng lệnh:
 
 ```
 [~]$ pwd
