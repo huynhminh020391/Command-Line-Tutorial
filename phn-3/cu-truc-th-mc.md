@@ -1,6 +1,6 @@
 / : thư mục gốc \(root folder\)
 
-~ : thư mục home
+~ : user directory.
 
 Để di chuyển đến thư mục gốc:
 
@@ -20,7 +20,7 @@ Output:
 /
 ```
 
-Tương tự ta có thể di chuyển đến thư mục home của ta bằng lệnh:
+Tương tự ta có thể di chuyển đến thư mục user của ta bằng lệnh:
 
 ```
 [~]$ cd ~
