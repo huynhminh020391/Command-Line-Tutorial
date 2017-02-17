@@ -14,5 +14,5 @@ Output:
 touch: cannot touch '/opt/foo': Permission denied
 ```
 
-
+Kết quả cho thấy ta không thể can thiệp vào thư mục. Nhưng nếu ta dùng lệnh _sudo_.
 
