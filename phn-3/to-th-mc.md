@@ -10,5 +10,5 @@
 [~]$ cd three
 ```
 
-
+Option -p: tạo thư mục trung gian nếu cần thiết.
 
