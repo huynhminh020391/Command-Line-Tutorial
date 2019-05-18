@@ -2,10 +2,6 @@
 
 * [Mở Đầu](README.md)
 
-## Overview
-
-* [Hướng dẫn sử dụng Unix Command Line](overview/readme.md)
-
 ## Phần 1
 
 * [Câu lệnh đầu tiên](phan-1/cau-lnh-u-tien.md)
